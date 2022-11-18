@@ -1,9 +1,6 @@
 {
-  "name": "modul6-pwa2-kel19",
-  "description": "Praktikum MDP PWA 2",
-  "author": "Asisten MDP PWA ",
-  "license": "UNLICENSED",
-  "version": "0.1.0",
+  "name": "daftar-game",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

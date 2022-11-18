@@ -5,8 +5,7 @@ import './index.css';
 export default function index() {
   return (
     <header>
-      <h3>Kelompok 19</h3>
-      <p>Modul 6 - PWA 2</p>
+      <h3>Daftar Game</h3>
     </header>
   );
 }
