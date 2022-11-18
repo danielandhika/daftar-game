@@ -9,7 +9,7 @@ export default function LandingPage() {
   const [data, setData] = useState(null);
   const [isLoaded, setisLoaded] = useState(false);
   const [isLoading, setIsLoading] = useState(false);
-  const [query, setQuery] = useState('Hulk');
+  const [query, setQuery] = useState('Iron');
 
   // Modal
   const [modalShow, setModalShow] = useState(false);
