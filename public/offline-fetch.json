@@ -1,0 +1,21 @@
+{
+  "d": [
+    {
+      "i": {
+        "height": 512,
+        "imageUrl": "/offline.png",
+        "width": 512
+      },
+      "id": "1",
+      "l": "Offline",
+      "q": "Anda Sedang Offline...",
+      "qid": "Anda Sedang Offline..",
+      "rank": 0,
+      "s": "Anda Sedang Offline",
+      "y": 2022,
+      "yr": "2022"
+    }
+  ],
+  "q": "Hulk",
+  "v": 1
+}
